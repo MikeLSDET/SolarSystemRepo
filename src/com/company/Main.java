@@ -12,10 +12,10 @@ public class Main {
 
 
         FeatureSun mikeSun=new FeatureSun();
-        mikeSun.color="blue";
-        mikeSun.heat="60000343434kj";
-        mikeSun.temp="celsiuus";
-        mikeSun.radius="0.009";
-        mikeSun.martialStatus="single";
+        mikeSun.color="Red";
+        mikeSun.heat="6000038282828223434kj";
+        mikeSun.temp="6000000kelvin";
+        mikeSun.radius="9000000km";
+        mikeSun.martialStatus="in love with Asghar";
     }
 }
