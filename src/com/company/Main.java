@@ -17,5 +17,12 @@ public class Main {
         mikeSun.temp="6000000kelvin";
         mikeSun.radius="9000000km";
         mikeSun.martialStatus="in love with Asghar";
+
+
+        //adding planet 1 features
+        planet1 astronaut=new planet1();
+        astronaut.color="grey";
+        astronaut.relationshipStatus="single";
+        astronaut.size="9989989989898km";
     }
 }
