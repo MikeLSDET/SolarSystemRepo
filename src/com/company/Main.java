@@ -19,10 +19,18 @@ public class Main {
         mikeSun.martialStatus="in love with Asghar";
 
 
+
+        //Planet 2 features
+        Planet2 bastronaut=new Planet2();
+        bastronaut.color="pink";
+        bastronaut.size="2132312321km";
+        bastronaut.status="same as Mike's";
+
         //adding planet 1 features
         planet1 astronaut=new planet1();
         astronaut.color="grey";
         astronaut.relationshipStatus="single";
         astronaut.size="9989989989898km";
+
     }
 }
